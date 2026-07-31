@@ -5,8 +5,8 @@
 %global crate actix-utils
 
 Name:           rust-%{crate}
-Version:        1.0.4
-Release:        2%{?dist}
+Version:        3.0.1
+Release:        1%{?dist}
 Summary:        Actix utils - various actix net related services
 
 # Upstream license specification: MIT/Apache-2.0
